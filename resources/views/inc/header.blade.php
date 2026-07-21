@@ -1,3 +1,12 @@
+<style>
+  @media (max-width: 768px) {
+    .nav-cta {
+         width: 210px !important;
+    }
+}
+</style>
+
+
 <a href="#main" class="skip-link">Skip to content</a>
 <div class="scroll-progress" id="scrollProgress"></div>
 <div class="bg-orbs" aria-hidden="true"><span class="orb orb-1"></span><span class="orb orb-2"></span><span class="orb orb-3"></span></div>
