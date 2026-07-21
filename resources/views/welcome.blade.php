@@ -78,41 +78,6 @@
       </div>
     </div>
 
-    {{--<div class="hero-visual reveal">
-      <div class="signal-card">
-        <svg viewBox="0 0 560 280" role="img" aria-label="Illustration of disconnected tracking data points becoming one connected, traceable path">
-          <defs>
-            <linearGradient id="pathGrad" x1="245" y1="215" x2="510" y2="120" gradientUnits="userSpaceOnUse">
-              <stop offset="0" stop-color="#4F46E5"/>
-              <stop offset="1" stop-color="#13B8A6"/>
-            </linearGradient>
-          </defs>
-          <path d="M30,225 L150,165 L245,215" stroke="#D6D3F5" stroke-width="2.5" stroke-dasharray="5 7" fill="none" stroke-linecap="round"/>
-          <path id="gpath" class="gp-draw" d="M245,215 L330,150 L420,195 L510,120" stroke="url(#pathGrad)" stroke-width="3.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
-          <circle cx="30" cy="225" r="6" fill="#fff" stroke="#C7C3F2" stroke-width="2"/>
-          <circle cx="150" cy="165" r="6" fill="#fff" stroke="#C7C3F2" stroke-width="2"/>
-          <circle cx="245" cy="215" r="7" fill="#FFFBEB" stroke="#F59E0B" stroke-width="2.5"/>
-          <circle cx="330" cy="150" r="6" fill="#fff" stroke="#4F46E5" stroke-width="2.5"/>
-          <circle cx="420" cy="195" r="6" fill="#fff" stroke="#13B8A6" stroke-width="2.5"/>
-          <circle class="node-glow" cx="510" cy="120" r="11" fill="url(#pathGrad)"/>
-          <path d="M504,120 l4,5 l9,-10" stroke="#fff" stroke-width="2.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
-          <circle class="travel-dot" r="4" fill="#fff" style="offset-path:path('M245,215 L330,150 L420,195 L510,120');"/>
-        </svg>
-        <div class="signal-caption">
-          <span class="tag-bad">⚠ signal lost</span>
-          <span class="tag-good">✓ fully tracked → converted</span>
-        </div>
-      </div>
-      <div class="achieve-card">
-        <div class="achieve-title">What You Get</div>
-        <ul>
-          <li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"><path d="M5 12l4 4 10-10"/></svg>Broken GA4 &amp; GTM tracking fixed</li>
-          <li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"><path d="M5 12l4 4 10-10"/></svg>Meta Pixel + CAPI dual-tracking</li>
-          <li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"><path d="M5 12l4 4 10-10"/></svg>Google Ads enhanced conversions</li>
-          <li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"><path d="M5 12l4 4 10-10"/></svg>Full-funnel attribution restored</li>
-        </ul>
-      </div>
-    </div>--}}
   </div>
 </section>
 
@@ -836,69 +801,7 @@
 </section>
 
 <!-- ============================= CONTACT ============================= -->
-<section class="section bg-white" id="contact">
-  <div class="container">
-    <div class="section-head center reveal">
-      <div class="eyebrow"><span class="dot"></span>Get Started</div>
-      <h2>Let's Take an Honest Look at Your Tracking — <span class="accent"> For Free</span></h2>
-      <p>Book a free 15-minute call. We'll go through your current setup, tell you exactly where the gaps are, and give you a clear picture of what needs fixing — and what it might be costing you.No pitch. No pressure. No 47-slide deck. Just a real conversation about your data.</p>
-    </div>
-
-    <div class="contact-grid reveal">
-      <div class="contact-left">
-        <h3>What You Get</h3>
-        <div class="check-item">
-          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"><path d="M5 12l4 4 10-10"/></svg>
-          <div><b>Complete Tracking Audit</b><p>Full review of your GTM, GA4, GoHighLevel and ad-platform tracking.</p></div>
-        </div>
-        <div class="check-item">
-          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"><path d="M5 12l4 4 10-10"/></svg>
-          <div><b>Custom Action Plan</b><p>A prioritized list of exactly what needs fixing, and how.</p></div>
-        </div>
-        <div class="check-item">
-          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"><path d="M5 12l4 4 10-10"/></svg>
-          <div><b>Revenue Leak Analysis</b><p>A clear picture of what tracking errors may be costing you.</p></div>
-        </div>
-        <div class="check-item">
-          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"><path d="M5 12l4 4 10-10"/></svg>
-          <div><b>No Obligation</b><p>A genuinely free audit — no pressure, no hidden fees.</p></div>
-        </div>
-
-        <div class="contact-info">
-          <div class="info-row"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M22 16.92v3a2 2 0 01-2.18 2 19.79 19.79 0 01-8.63-3.07 19.5 19.5 0 01-6-6 19.79 19.79 0 01-3.07-8.67A2 2 0 014.11 2h3a2 2 0 012 1.72c.13.96.36 1.9.7 2.81a2 2 0 01-.45 2.11L8.09 9.91a16 16 0 006 6l1.27-1.27a2 2 0 012.11-.45c.91.34 1.85.57 2.81.7A2 2 0 0122 16.92z"/></svg><span><span class="lbl">Phone</span>+8801880493614</span></div>
-          <div class="info-row"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 4h16v16H4V4z" opacity="0"/><path d="M22 6l-10 7L2 6"/><path d="M2 6h20v12H2V6z"/></svg><span><span class="lbl">Email</span>admin@adventoagency.com</span></div>
-          <div class="info-row"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 10c0 6-9 13-9 13s-9-7-9-13a9 9 0 0118 0z"/><circle cx="12" cy="10" r="3"/></svg><span><span class="lbl">Location</span>Dhaka, Bangladesh</span></div>
-        </div>
-      </div>
-
-      <div class="contact-form">
-        <form id="auditForm">
-          <div class="form-row"><label for="f-name">Your Name</label><input id="f-name" type="text" placeholder="Full name" required></div>
-          <div class="form-grid-2">
-            <div class="form-row"><label for="f-email">Email Address</label><input id="f-email" type="email" placeholder="you@business.com" required></div>
-            <div class="form-row"><label for="f-url">Website URL</label><input id="f-url" type="text" placeholder="https://yourbusiness.com"></div>
-          </div>
-          <div class="form-row"><label for="f-msg">Message</label><textarea id="f-msg" placeholder="Tell us briefly what's not adding up in your tracking right now."></textarea></div>
-          <button type="submit" class="btn btn-primary btn-block">Claim My Free Audit Now</button>
-          <div class="form-success" id="formSuccess">
-            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" style="width:18px;height:18px;"><path d="M5 12l4 4 10-10"/></svg>
-            Thanks — this form is a front-end demo. Connect it to a real form handler before launch.
-          </div>
-        </form>
-      </div>
-    </div>
-
-    {{--<div class="cta-banner reveal" style="margin-top:60px;">
-      <div>
-        <h3>Ready to fix your tracking?</h3>
-        <p>Book your free audit today — limited spots each month.</p>
-      </div>
-      <a href="#" onclick="document.getElementById('f-name').focus();return false;" class="btn btn-secondary">Claim Free Audit
-        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M5 12h14M13 6l6 6-6 6"/></svg>
-      </a>
-    </div>--}}
-  </div>
-</section>
+@include('inc.contact')
 
 </main>
 
